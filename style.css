@@ -1,0 +1,38 @@
+
+        
+        body {
+            background-color: white;    
+			margin: 0;
+			width: 100%;	
+		}
+		
+		h1{
+		position: fixed;
+		opacity: 100%;
+		color:darkgreen;
+		text-align:center;
+		right:0;
+		z-index: 3;
+		left: 0%;
+		width: 98%;
+		font-size: 165%;
+		text-shadow: lightgreen -5px 2px 0.7em;
+	
+		}	
+		
+
+		
+		#map {
+		
+			width: 100%; 
+			position: fixed;
+			top:0;
+			bottom:0;
+			border: 2.5px solid black;
+			
+		}
+		
+		
+
+		
+		
